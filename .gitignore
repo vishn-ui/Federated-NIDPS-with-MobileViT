@@ -7,7 +7,7 @@ __pycache__/
 DetectionDataset/
 *.zip
 
-# Models (64-bit models are huge, skip these)
+# Models (64-bit models)
 *.npz
 *.pt
 
