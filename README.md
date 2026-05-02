@@ -16,3 +16,6 @@ This project demonstrates a privacy-preserving AI pipeline where a central **Kal
 5. and evaluate.py ---->  DATA_PATH = "/mnt/c/Users/vishn/Desktop/Malware_Project/DetectionDataset/DetectionDataset/splittedDataset/test"
 6. Start the server on Kali: `python server.py`
 7. Start the client on Windows: `python src/client.py`
+
+### training of model and communication between client and server
+![work flow](Screenshot.png)
