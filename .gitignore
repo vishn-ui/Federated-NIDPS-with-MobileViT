@@ -1,0 +1,15 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Data (CRITICAL: Do not upload malware to GitHub)
+DetectionDataset/
+*.zip
+
+# Models (64-bit models are huge, skip these)
+*.npz
+*.pt
+
+# OS files
+.DS_Store
